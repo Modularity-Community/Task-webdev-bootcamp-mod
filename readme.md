@@ -1,4 +1,4 @@
-#cara pengumpulan tugas
+<h1>cara pengumpulan tugas</h1>
 <br>
 pertama fork repository ini ke repositori kalian
 <br>
